@@ -23,7 +23,7 @@ class Poem
     "brute force"
   end
 
-  def beat_it_with_a_hose_to_find_out_what_it_really_means
+  def beating_it_with_a_hose_to_find_out_what_it_really_means
     "hate"
   end
 end
