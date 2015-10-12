@@ -1,0 +1,14 @@
+require_relative "request"
+require_relative "poem"
+require_relative "action"
+
+i_ask_them_to take_a_poem_and, :hold_it_up_to_the_light_like_a_color_slide
+i_ask_them_to take_a_poem_and, :press_an_ear_against_its_hive
+i_say take_a_poem_and, :drop_a_mouse_into_it_and_watch_him_probe_his_way_out
+i_say take_a_poem_and, :walk_inside_its_room_and_feel_the_walls_for_a_light_switch
+i_want_them_to take_a_poem_and, :waterski_across_its_surface_waving_at_the_authors_name_on_the_shore
+
+but_all_they_want_to_do_is take_a_poem_and, :tie_it_to_a_chair_with_rope_and_torture_a_confession_out_of_it
+they take_a_poem_and, :beat_it_with_a_hose_to_find_out_what_it_really_means
+
+# By Billy Collins
